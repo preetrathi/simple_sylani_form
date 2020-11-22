@@ -1,0 +1,71 @@
+
+ #container{
+     width: 900px;
+     align-content: center;
+     margin: 0 auto;
+     height: auto;
+     padding: 10px;
+}
+#header{
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+#header img{
+    width: 400px;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: blueviolet;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+#form_body{
+    background-color: lightgray;
+    margin: 0 auto;
+    height: auto;
+    width: 850px;
+    padding: 10px;
+}
+input{
+    padding: 5px;
+} 
+p{
+    margin: 0;
+}
+/* table tr td{
+    padding-bottom: 10px;
+} */
+#qualification td{
+    padding-bottom: 0px;
+}
+label{
+    text-transform: uppercase;
+}
+table th{
+    text-transform: capitalize;
+}
+#submit, #reset{
+    width: 60px;
+    height: 30px;
+    padding: 0;
+}
+#thanks{
+    text-align: center;
+}
+#thanks img{
+    width: 300px;
+}
+#thanks h1{
+    text-decoration: none;
+    color: green;
+}
+#thanks a{
+    color: indigo;
+    font-size: 30px;
+    font-weight: bolder;
+}
